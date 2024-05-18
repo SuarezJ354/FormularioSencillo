@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    margin: 50px;
+}
+main{
+    margin: 40px auto;
+    padding: 40px;
+}
+
+form{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+
+form input{
+    padding: 0 50px;
+}
